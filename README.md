@@ -295,5 +295,9 @@ Menyimpan daftar mata kuliah dan menghubungkannya dengan dosen pengampu melalui 
 Berikut adalah dokumentasi pengerjaan dan demonstrasi program yang tersimpan pada folder `dokumentasi/`:
 
 - **Video Demonstrasi Program:**
-Dokumentasi/Recording 2026-11-21 001127.mp4
+
+https://github.com/user-attachments/assets/2e68ea0b-7062-44bf-a4f4-540463857e52
+
+
+
 
