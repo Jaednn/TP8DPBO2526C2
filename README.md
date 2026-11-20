@@ -295,5 +295,5 @@ Menyimpan daftar mata kuliah dan menghubungkannya dengan dosen pengampu melalui 
 Berikut adalah dokumentasi pengerjaan dan demonstrasi program yang tersimpan pada folder `dokumentasi/`:
 
 - **Video Demonstrasi Program:**
-  `dokumentasi/demo_mvc.mp4` *(atau sematan link screen record)*
+Dokumentasi/Recording 2026-11-21 001127.mp4
 
